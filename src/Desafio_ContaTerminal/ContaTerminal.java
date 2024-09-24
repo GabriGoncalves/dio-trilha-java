@@ -1,3 +1,6 @@
+package Desafio_ContaTerminal;
+
+import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class ContaTerminal {
@@ -9,11 +12,11 @@ public class ContaTerminal {
         int conta;
         String nome;
         String sobrenome;
-        double saldo;
+        BigDecimal saldo;
 
         System.out.println("Olá, você está acessando nosso sistema para acessar sua conta");
 
-        System.out.println("Por favor, nos diga seu nome: ");
+        System.out.println("Por favor, nos diga seu nome e sobrenome: ");
         nome = escreva.next();
         sobrenome = escreva.next();
 
@@ -23,13 +26,13 @@ public class ContaTerminal {
         System.out.println("Digite sua agencia: ");
         agencia = escreva.nextInt();
 
-        System.out.println("Digite o saldo que havia na sua conta: ");
-        saldo = escreva.nextDouble();
+        System.out.println("Quanto você irá depositar na sua conta: ");
+        saldo = escreva.nextBigDecimal();
 
         System.out.println("Obrigado pelas informações, conta acessada com Sucesso");
-        System.out.println("Nome: " + nome + sobrenome);
+        System.out.println("Nome: " + nome + " " + sobrenome);
         System.out.println("Conta: " + conta + "\n" + "Agencia: " + agencia);
-        System.out.println("Saldo: " + saldo);
+        System.out.println("Saldo: R$ " + saldo);
 
     }
 }
