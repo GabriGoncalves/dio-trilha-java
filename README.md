@@ -16,13 +16,19 @@
 - Criar os métodos dessas três interfaces.
 - Vincular essas interfaces a uma classe iPhone.
 - Escrever a lógica de negócio de cada método.
+- - -
 
 ### Desafio Conta Digital
 - Criar uma conta digital com o intuito de reforçar os conhecimentos em programação orientada objeto.
-Com iteração entre as classes, interfaces (caso ache conveniente).
+Com iteração entre as classes e interfaces (caso ache conveniente).
 #### Requisitos
 - Criar dois tipos de conta sendo: Conta Corrente e Conta poupança.
 Implementar métodos com função de : 
 - Sacar;
 - Depositar;
 - Transferir; (pegar o saldo de uma conta, e mandar para outra conta).
+- - - 
+### Desafio Bootcamp
+- Fazer uma iteração entre classes para criar um bootcamp, onde terá seus devs, cursos, mentorias, conteudos..
+#### Requisitos
+- Fazer Abstração, Encapsulamento, Herança e Polimorfismo, para ordenar as classes de forma coesa e clara.
