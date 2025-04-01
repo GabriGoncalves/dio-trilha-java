@@ -1,4 +1,4 @@
-package Desafio_ContaTerminal;
+package Desafio1_ContaTerminal;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
