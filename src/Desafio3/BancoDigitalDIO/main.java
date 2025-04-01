@@ -1,4 +1,4 @@
-package Desafio3_BancoDigitalDIO;
+package Desafio3.BancoDigitalDIO;
 
 public class main {
     public static void main(String[] args) {

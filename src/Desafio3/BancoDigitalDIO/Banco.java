@@ -1,4 +1,4 @@
-package Desafio3_BancoDigitalDIO;
+package Desafio3.BancoDigitalDIO;
 
 import java.util.List;
 
