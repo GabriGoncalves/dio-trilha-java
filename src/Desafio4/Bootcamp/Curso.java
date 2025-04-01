@@ -1,4 +1,4 @@
-package Desafio4_Bootcamp;
+package Desafio4.Bootcamp;
 
 public class Curso extends Conteudo{
 

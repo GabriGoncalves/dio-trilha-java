@@ -1,4 +1,4 @@
-package Desafio4_Bootcamp;
+package Desafio4.Bootcamp;
 
 import java.util.LinkedHashSet;
 import java.util.Objects;
