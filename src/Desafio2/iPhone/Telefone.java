@@ -1,4 +1,4 @@
-package Desafio2_iPhone;
+package Desafio2.iPhone;
 
 public interface Telefone {
     public void ligar(String numero);

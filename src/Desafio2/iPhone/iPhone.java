@@ -1,4 +1,4 @@
-package Desafio2_iPhone;
+package Desafio2.iPhone;
 
 import java.util.Scanner;
 

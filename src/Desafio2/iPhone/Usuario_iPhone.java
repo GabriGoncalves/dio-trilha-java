@@ -1,4 +1,4 @@
-package Desafio2_iPhone;
+package Desafio2.iPhone;
 
 public class Usuario_iPhone {
     public static void main(String[] args) {
