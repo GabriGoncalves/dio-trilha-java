@@ -1,4 +1,4 @@
-package Desafio_iPhone;
+package Desafio2_iPhone;
 
 public interface NavegadorWeb {
     void exibirPagina(String url);

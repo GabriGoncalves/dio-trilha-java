@@ -1,4 +1,4 @@
-package Desafio_iPhone;
+package Desafio2_iPhone;
 
 public interface ReprodutorMusica {
     public void tocar(String musica);

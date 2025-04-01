@@ -1,4 +1,4 @@
-package Desafio_VerificarConexao;
+package Desafio5_VerificarConexao;
 
 import java.util.Scanner;
 
