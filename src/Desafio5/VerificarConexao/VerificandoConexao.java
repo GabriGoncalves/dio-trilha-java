@@ -1,4 +1,4 @@
-package Desafio5_VerificarConexao;
+package Desafio5.VerificarConexao;
 
 public class VerificandoConexao {
 
